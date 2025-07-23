@@ -2,8 +2,14 @@
 
 to install:
 
-```bash
+```ps
 git clone https://github.com/kaykoe/win-kb.git
+```
+
+or
+
+```ps
+curl.exe -fSsL -o win-kb.zip https://github.com/kaykoe/win-kb/archive/refs/heads/main.zip
 ```
 
 run the setup.exe file in the desired layout's directory
